@@ -418,7 +418,7 @@ def cancel_all():
 def print_X_and_Z():
 
   # get handle from DLL
-  Handle_HL= ctypes.cdll.LoadLibrary("/home/facu-reyesoft/lib64/libEpsonFiscalInterface.so")
+  Handle_HL= ctypes.cdll.LoadLibrary("so/64/libEpsonFiscalInterface.so")
   # Handle_HL = windll.LoadLibrary("EpsonFiscalInterface.dll")
 
   # connect
