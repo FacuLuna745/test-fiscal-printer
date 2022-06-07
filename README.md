@@ -12,5 +12,4 @@ conda create -n NOMBREENV python=2.7
 ## Ejecución
 
 * Conectar Impresora
-* Cambiar la ruta que se encuentra en el archivo <b>app_client_using_ddl.py</b>
 * Ejecutar python app_client_using_ddl.py
